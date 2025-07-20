@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="[https://files.catbox.moe/exs4xi.jpg)">
+    <img alt="https://files.catbox.moe/exs4xi.jpg)">
   </a>
 </p>
     
